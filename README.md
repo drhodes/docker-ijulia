@@ -4,6 +4,8 @@
 
 iJulia docker image
 
+Docker image is available as [auchida/ijulia](https://hub.docker.com/r/auchida/ijulia/) in Docker Hub.
+
 ## Image tags
 
 - `0.4`, `latest`
