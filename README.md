@@ -13,7 +13,7 @@ Docker image is available as [auchida/ijulia](https://hub.docker.com/r/auchida/i
 ## Usage
 
 ```console
-$ docker run -d -p 8888:8888 auchida/ijulia
+$ docker run -d -p 8888:8888 -v $PWD:/data auchida/ijulia
 ```
 
 ## License
